@@ -16,7 +16,8 @@ Background
 
 libraries
 =====
- 
+you need：
+
 pandas，numpy，matplotlib，math，keras，sklearn
 
 如果你知道如何安装，请打开你的cmd（或其它命令行）
